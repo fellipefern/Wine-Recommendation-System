@@ -1,7 +1,7 @@
 ##########################################################################################################################
-#  12/09/2020 - Trabalho de Conclusão de Curso - Tera Treinamentos Profissionais 
-#               Sistema de Recomendação de Vinhos 
-#
+#   Trabalho de Conclusão de Curso - Tera Treinamentos Profissionais 
+#                 Sistema de Recomendação de Vinhos 
+#   
 ##########################################################################################################################
 
 
